@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-translate-genai",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Custom Strapi Provider Plugin For Translation With GenAI API",
   "main": "./lib",
   "directories": {
