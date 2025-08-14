@@ -13,7 +13,7 @@
     "strapi",
     "translate",
     "provider",
-    "openai",
+    "openai"
   ],
   "homepage": "https://github.com/gilangwinduasmara/strapi-provider-translate-genai",
   "bugs": {
