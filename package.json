@@ -1,0 +1,41 @@
+{
+  "name": "strapi-provider-translate-genai",
+  "version": "0.0.1",
+  "description": "Custom Strapi Provider Plugin For Translation With GenAI API",
+  "main": "./lib",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "start": "node ./lib/index.js"
+  },
+  "keywords": [
+    "strapi",
+    "translate",
+    "provider",
+    "openai",
+  ],
+  "homepage": "https://github.com/gilangwinduasmara/strapi-provider-translate-genai",
+  "bugs": {
+    "url": "https://github.com/gilangwinduasmara/strapi-provider-translate-genai/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gilangwinduasmara/strapi-provider-translate-genai"
+  },
+  "author": {
+    "name": "gilangwinduasmara",
+    "email": "gilangwinduasmara2@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "gilangwinduasmara",
+      "email": "gilangwinduasmara2@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.x.x <=16.x.x",
+    "npm": ">=6.0.0"
+  }
+}
