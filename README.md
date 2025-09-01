@@ -174,3 +174,6 @@ If you encounter any issues or have questions:
 - [Strapi Translate Plugin](https://market.strapi.io/plugins/strapi-plugin-translate)
 - [Strapi Documentation](https://docs.strapi.io/)
 - [OpenAI API Documentation](https://platform.openai.com/docs/api-reference)
+
+
+<!-- Security scan triggered at 2025-09-01 23:46:39 -->
